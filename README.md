@@ -4,7 +4,7 @@
 
 This repository contains the training data sets, trained MLPs and source code used in the paper:
 
-Improving Neural Networks by Amplifying and Attenuating Neurons
+Improving Neural Networks by Using Amplifying and Attenuating Neurons
 
 ## Environment
 
